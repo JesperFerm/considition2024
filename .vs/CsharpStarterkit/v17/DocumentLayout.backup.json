@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|c:\\projects\\considition 2024\\considition-2024\\cs\\csharpstarterkit\\interesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|solutionrelative:csharpstarterkit\\interesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|c:\\projects\\considition 2024\\considition-2024\\cs\\csharpstarterkit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|solutionrelative:csharpstarterkit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|c:\\projects\\considition 2024\\considition-2024\\cs\\csharpstarterkit\\map.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|solutionrelative:csharpstarterkit\\map.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|c:\\projects\\considition 2024\\considition-2024\\cs\\csharpstarterkit\\dockerclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|solutionrelative:csharpstarterkit\\dockerclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|c:\\projects\\considition 2024\\considition-2024\\cs\\csharpstarterkit\\pocosmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|solutionrelative:csharpstarterkit\\pocosmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|c:\\projects\\considition 2024\\considition-2024\\cs\\csharpstarterkit\\pocosgameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|solutionrelative:csharpstarterkit\\pocosgameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|c:\\projects\\considition 2024\\considition-2024\\cs\\csharpstarterkit\\awards.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|solutionrelative:csharpstarterkit\\awards.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|c:\\projects\\considition 2024\\considition-2024\\cs\\csharpstarterkit\\calculationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|solutionrelative:csharpstarterkit\\calculationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|c:\\projects\\considition 2024\\considition-2024\\cs\\csharpstarterkit\\gameoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|solutionrelative:csharpstarterkit\\gameoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|c:\\projects\\considition 2024\\considition-2024\\cs\\csharpstarterkit\\considitionclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1782A42-7AB5-449D-B295-890D7315B11B}|CsharpStarterkit\\CsharpStarterkit.csproj|solutionrelative:csharpstarterkit\\considitionclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameOutput.cs",
+              "DocumentMoniker": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\GameOutput.cs",
+              "RelativeDocumentMoniker": "CsharpStarterkit\\GameOutput.cs",
+              "ToolTip": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\GameOutput.cs",
+              "RelativeToolTip": "CsharpStarterkit\\GameOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:32:04.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Awards.json",
+              "DocumentMoniker": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\Awards.json",
+              "RelativeDocumentMoniker": "CsharpStarterkit\\Awards.json",
+              "ToolTip": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\Awards.json",
+              "RelativeToolTip": "CsharpStarterkit\\Awards.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T21:06:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculationHelper.cs",
+              "DocumentMoniker": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\CalculationHelper.cs",
+              "RelativeDocumentMoniker": "CsharpStarterkit\\CalculationHelper.cs",
+              "ToolTip": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\CalculationHelper.cs",
+              "RelativeToolTip": "CsharpStarterkit\\CalculationHelper.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:20:52.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\Program.cs",
+              "RelativeDocumentMoniker": "CsharpStarterkit\\Program.cs",
+              "ToolTip": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\Program.cs",
+              "RelativeToolTip": "CsharpStarterkit\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADgv0wAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:19:19.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterestHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\InterestHandler.cs",
+              "RelativeDocumentMoniker": "CsharpStarterkit\\InterestHandler.cs",
+              "ToolTip": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\InterestHandler.cs",
+              "RelativeToolTip": "CsharpStarterkit\\InterestHandler.cs",
+              "ViewState": "AgIAAPYBAAAAAAAAAADgvwQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:38:57.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DockerClient.cs",
+              "DocumentMoniker": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\DockerClient.cs",
+              "RelativeDocumentMoniker": "CsharpStarterkit\\DockerClient.cs",
+              "ToolTip": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\DockerClient.cs",
+              "RelativeToolTip": "CsharpStarterkit\\DockerClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:43:15.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Map.json",
+              "DocumentMoniker": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\Map.json",
+              "RelativeDocumentMoniker": "CsharpStarterkit\\Map.json",
+              "ToolTip": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\Map.json",
+              "RelativeToolTip": "CsharpStarterkit\\Map.json",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T20:32:41.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PocosGameInput.cs",
+              "DocumentMoniker": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\PocosGameInput.cs",
+              "RelativeDocumentMoniker": "CsharpStarterkit\\PocosGameInput.cs",
+              "ToolTip": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\PocosGameInput.cs",
+              "RelativeToolTip": "CsharpStarterkit\\PocosGameInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:21:31.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsiditionClient.cs",
+              "DocumentMoniker": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\ConsiditionClient.cs",
+              "RelativeDocumentMoniker": "CsharpStarterkit\\ConsiditionClient.cs",
+              "ToolTip": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\ConsiditionClient.cs",
+              "RelativeToolTip": "CsharpStarterkit\\ConsiditionClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:46:59.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PocosMap.cs",
+              "DocumentMoniker": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\PocosMap.cs",
+              "RelativeDocumentMoniker": "CsharpStarterkit\\PocosMap.cs",
+              "ToolTip": "C:\\Projects\\Considition 2024\\Considition-2024\\Cs\\CsharpStarterkit\\PocosMap.cs",
+              "RelativeToolTip": "CsharpStarterkit\\PocosMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:26:30.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

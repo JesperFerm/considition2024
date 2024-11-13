@@ -1,0 +1,102 @@
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\Awards.json
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\Map.json
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.exe
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.deps.json
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.runtimeconfig.json
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.dll
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.pdb
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.AssemblyReference.cache
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfoInputs.cache
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfo.cs
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CoreCompileInputs.cache
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CopyComplete
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.dll
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\refint\CsharpStarterkit.dll
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.pdb
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.genruntimeconfig.cache
+C:\Users\jespe\Downloads\CsharpStarterkit 1\CsharpStarterkit\CsharpStarterkit\obj\Debug\net8.0\ref\CsharpStarterkit.dll
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Awards.json
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Map.json
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.exe
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.deps.json
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.runtimeconfig.json
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.dll
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.pdb
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.AssemblyReference.cache
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfoInputs.cache
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfo.cs
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CoreCompileInputs.cache
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.sourcelink.json
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CopyComplete
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.dll
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\refint\CsharpStarterkit.dll
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.pdb
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.genruntimeconfig.cache
+C:\Users\jespe\Startkit\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\ref\CsharpStarterkit.dll
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Awards.json
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Map.json
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.exe
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.deps.json
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.runtimeconfig.json
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.dll
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.pdb
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.AssemblyReference.cache
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfoInputs.cache
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfo.cs
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CoreCompileInputs.cache
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.sourcelink.json
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpSt.CC410BEA.Up2Date
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.dll
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\refint\CsharpStarterkit.dll
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.pdb
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.genruntimeconfig.cache
+C:\Projects\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\ref\CsharpStarterkit.dll
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Awards.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Map.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.exe
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.deps.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.runtimeconfig.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.dll
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.pdb
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Newtonsoft.Json.dll
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.AssemblyReference.cache
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfoInputs.cache
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfo.cs
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CoreCompileInputs.cache
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.sourcelink.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpSt.CC410BEA.Up2Date
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.dll
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\refint\CsharpStarterkit.dll
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.pdb
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.genruntimeconfig.cache
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\obj\Debug\net8.0\ref\CsharpStarterkit.dll
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024\Cs\CsharpStarterkit\bin\Debug\net8.0\Map2.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\bin\Debug\net8.0\Awards.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\bin\Debug\net8.0\Map.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\bin\Debug\net8.0\Map2.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.exe
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.deps.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.runtimeconfig.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.dll
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\bin\Debug\net8.0\CsharpStarterkit.pdb
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\bin\Debug\net8.0\Newtonsoft.Json.dll
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.AssemblyReference.cache
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfoInputs.cache
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.AssemblyInfo.cs
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.csproj.CoreCompileInputs.cache
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.sourcelink.json
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpSt.CC410BEA.Up2Date
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.dll
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\refint\CsharpStarterkit.dll
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.pdb
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\CsharpStarterkit.genruntimeconfig.cache
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\obj\Debug\net8.0\ref\CsharpStarterkit.dll
+Z:\Backup jobbdator\Spara\Considition 2024\Considition-2024 - Copy\Cs\CsharpStarterkit\bin\Debug\net8.0\Map3.json
